@@ -29,9 +29,8 @@ I would like to allow for the changed tip percentages to be saved once the app h
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://recordit.co/ZrkQJABL9O' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/ZrkQJABL9O.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
